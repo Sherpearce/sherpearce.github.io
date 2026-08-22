@@ -1,7 +1,9 @@
 header {
-  width:auto
+  width:auto;
+  align-content:center
 }
 
 .up {
-  width:50 vh
+  width:50vh;
+  background-color:rgb(15,40,240)
 }
