@@ -3,6 +3,10 @@ header {
   align-content:center
 }
 
+bloc {
+  float:center
+}
+
 .up {
   width:50vh;
   background-color:rgb(15,40,240)
