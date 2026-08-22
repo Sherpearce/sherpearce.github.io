@@ -4,8 +4,9 @@ header {
 }
 
 .bloc div {
-  float:center;
+  float:left;
   clear:none;
+  margin:10px;
 }
 
 .up {
